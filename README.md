@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Ian Granger
+**USF email address**: icgranger@dons.usfca.edu  
